@@ -1,0 +1,7 @@
+language: generic
+sudo: required
+os: osx
+install: true
+
+script:
+  - ./tests.sh
