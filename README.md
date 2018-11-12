@@ -1,2 +1,2 @@
 # homebrew-tap
-Homebrew tap for my projects.
+[![Build Status](https://travis-ci.org/ibrt/homebrew-tap.svg?branch=master)](https://travis-ci.org/ibrt/homebrew-tap)
