@@ -1,9 +1,9 @@
 class GolangTools < Formula
   desc "Useful macOS tools for the savvy Go programmer."
   homepage "https://github.com/ibrt/golang-tools"
-  url "https://github.com/ibrt/golang-tools/archive/1.0.0.tar.gz"
-  version "1.0.0"
-  sha256 "002dcaf729dd1468f9cc7747a13282d0eda778d23f2be9c49dbe59ecae59fec0"
+  url "https://github.com/ibrt/golang-tools/archive/1.0.1.tar.gz"
+  version "1.0.1"
+  sha256 "d739d908b753145d89670bcc72eb47d8e13f06c32a8b9ba215293454c5ee8b33"
 
   def install
     bin.install "tools/gobin"
